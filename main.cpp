@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 
     //eeeeeee
 
-    //hh
+    //hh quay
 
     return a.exec();
 }
