@@ -9,10 +9,6 @@ int main(int argc, char *argv[])
 
     //eeeeeee
 
-    //apbt
-
-    // testing testing testing
-//    gg
 
     return a.exec();
 }
